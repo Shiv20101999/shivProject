@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="suite1">
+    <test name="Test1">
+        <classes>
+            <class name="Logo">
+            </class>
+            <class name="ImageButtonCheck">
+            </class>
+        </classes>
+
+    </test>
+</suite>
